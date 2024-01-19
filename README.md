@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MarcieD1
 - 👀 I’m interested in Software Engineering and Databases 
-- 🌱 I’m currently learning with the ALX Programme
-- 💞️ I’m looking to collaborate on Database and Backend Engineering
 - 📫 How to reach me maphodes@gmail.com
 
 <!---
