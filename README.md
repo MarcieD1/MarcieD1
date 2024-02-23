@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarcieD1
-- 👀 I’m enjoy Software Engineering and Databases 
+- 👀 I enjoy Software Engineering and Databases 
 - 📫 How to reach me: maphodes@gmail.com
 
 <!---
